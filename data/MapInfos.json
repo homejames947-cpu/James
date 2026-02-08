@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":642.8571428571428,"scrollY":534},
+{"id":2,"expanded":true,"name":"被遺棄的城鎮","order":5,"parentId":3,"scrollX":989.1428571428571,"scrollY":1399.7142857142856},
+{"id":3,"expanded":true,"name":"世界 3","order":2,"parentId":0,"scrollX":1404,"scrollY":624.8571428571428},
+{"id":4,"expanded":true,"name":"礦業城市","order":3,"parentId":3,"scrollX":864,"scrollY":1482},
+{"id":5,"expanded":false,"name":"房子 1","order":4,"parentId":4,"scrollX":642.8571428571428,"scrollY":534},
+{"id":6,"expanded":false,"name":"遺址","order":6,"parentId":3,"scrollX":810.8571428571428,"scrollY":520.2857142857142},
+{"id":7,"expanded":false,"name":"雪城堡","order":7,"parentId":3,"scrollX":754.2857142857142,"scrollY":1581.4285714285713}
+]
